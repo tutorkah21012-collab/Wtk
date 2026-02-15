@@ -11,7 +11,7 @@ local LocalPlayer = Players.LocalPlayer
 -- ================================================
 local CONFIG = {
     VALIDATION_URL = _G.__STUB_V__ or "https://silent-lake-0164.tutorkah21011.workers.dev/validate",
-    LOADER_URL = _G.__STUB_L__ or "https://raw.githubusercontent.com/tutorkah21012-collab/Idc/refs/heads/main/Idc.lua",
+    LOADER_URL = _G.__STUB_L__ or "https://raw.githubusercontent.com/tutorkah21012-collab/Wtk/refs/heads/main/Uy.lua",
     DUELS_URL = _G.__STUB_T__ or "https://round-river-8781.cedsceds12.workers.dev/load-duels?key=",
     
     KEY = script_key or _G.script_key or "VINCITORE",
